@@ -1,3 +1,3 @@
 #!/bin/sh
-this is first shell script
+this is first script
 wellcome to git
