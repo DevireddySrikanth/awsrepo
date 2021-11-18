@@ -1,3 +1,6 @@
 haii
+<<<<<<< HEAD
 this is a srikanth
-this is my city hyd
+=======
+this is a city chennai
+>>>>>>> dev
